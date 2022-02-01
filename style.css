@@ -46,6 +46,7 @@ body {
     font-family:sans-serif;
     font-size: large;
     margin-left: 20%;
+    line-height: 30px;
 }
 
 #licoes_aprendidas:hover {
@@ -63,6 +64,7 @@ body {
     font-family:sans-serif;
     font-size: large;
     margin-left: 45%;
+    line-height: 30px;
 }
 
 #licoes_a_aprender:hover{
