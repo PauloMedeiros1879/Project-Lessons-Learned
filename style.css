@@ -3,5 +3,14 @@ body{
 }
 #cabecalho{
     position: fixed;
-    margin-top: 0;
+    border-top: 0px;
+}
+#titulo{
+
+}
+#minha_foto{
+    
+}
+#licoes_aprendidas{
+    
 }
