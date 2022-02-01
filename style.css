@@ -33,7 +33,7 @@ body {
 #minha_foto {
     margin-left: 46%;
     border-radius: 100px;
-    margin-top: 7%;
+    margin-top: 10%;
 }
 #licoes_aprendidas {
     display: inline-block;
@@ -82,3 +82,14 @@ body {
     font-weight: bold;
 }
 
+article{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cadetblue;
+    width: 470px;
+}
+
+aside {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: cornflowerblue;
+    width: 470px;
+}
