@@ -90,6 +90,7 @@ article{
     background-color: cadetblue;
     width: 470px;
     text-align: justify;
+    font-size: large;
 }
 
 aside {
@@ -99,4 +100,5 @@ aside {
     width: 470px;
     text-align: justify;
     color: whitesmoke;
+    font-size: large;
 }
