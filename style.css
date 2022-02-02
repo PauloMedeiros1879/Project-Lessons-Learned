@@ -1,91 +1,101 @@
 body {
-    background-color:rgb(253, 251, 251);
+background-color: rgb(253, 251, 251);
 }
+
 #cabecalho {
-    background-color: yellow;
-    position: fixed;
-    top: 0px;
-    border-bottom: 4px solid green;
-    border-left: 4px solid green;
-    border-top: 4px solid green;
-    border-right: 4px solid green;
-    font-family: monospace;
-    width: 100%;
+background-color: yellow;
+position: fixed;
+top: 0px;
+border-bottom: 4px solid green;
+border-left: 4px solid green;
+border-top: 4px solid green;
+border-right: 4px solid green;
+font-family: monospace;
+width: 100%;
 }
 
 #titulo {
-    text-align: center;
+text-align: center;
 }
+
 .navs {
-    margin-bottom: 2px;
-    margin-left: 4px;
-    width: 80px;
-    border-bottom: 3px solid blue;
-    border-left: 3px solid blue;
-    border-top: 3px solid blue;
-    border-right: 3px solid blue;
+margin-bottom: 2px;
+margin-left: 4px;
+width: 80px;
+border-bottom: 3px solid blue;
+border-left: 3px solid blue;
+border-top: 3px solid blue;
+border-right: 3px solid blue;
 }
 
 .navs:hover{
-    background-color: aqua;
-    font-size: large;
+background-color: aqua;
+font-size: large;
 }
+
 #minha_foto {
-    margin-left: 46%;
-    border-radius: 100px;
-    margin-top: 10%;
+margin-left: 46%;
+border-radius: 100px;
+margin-top: 10%;
 }
+
 #licoes_aprendidas {
-    display: inline-block;
+display: inline-block;
+border-left: 2px solid greenyellow;
+border-top: 2px solid greenyellow;
+border-left: 2px solid greenyellow;
+border-right: 2px solid greenyellow;
+border-bottom: 2px solid greenyellow;
+width: 90px;
+font-family:sans-serif;
+font-size: large;
+margin-left: 20%;
+line-height: 30px;
+}
+
+#licoes_aprendidas:hover {
+background-color: aqua;
+}
+
+#licoes_a_aprender {
+display: inline-block;
+border-left: 2px solid red;
+border-top: 2px solid red;
+border-left: 2px solid red;
+border-right: 2px solid red;
+border-bottom: 2px solid red;
+width: 100px;
+font-family:sans-serif;
+font-size: large;
+margin-left: 45%;
+line-height: 30px;
+}
+
+#licoes_a_aprender:hover{
+background-color: aquamarine;
+}
+
+#rodape {
+background-color: greenyellow;
+border-bottom: 2px solid brown;
+border-top: 2px solid brown;
+border-right: 2px solid brown;
+border-left: 2px solid brown;
+width: 55px;
+}
+
+#rodape:hover {
+font-weight: bold;
+}
+
+.lado-esquerdo {
     border-left: 2px solid greenyellow;
     border-top: 2px solid greenyellow;
     border-left: 2px solid greenyellow;
     border-right: 2px solid greenyellow;
     border-bottom: 2px solid greenyellow;
-    width: 90px;
-    font-family:sans-serif;
-    font-size: large;
-    margin-left: 20%;
-    line-height: 30px;
-}
-
-#licoes_aprendidas:hover {
-    background-color: aqua;
-}
-
-#licoes_a_aprender {
-    display: inline-block;
-    border-left: 2px solid red;
-    border-top: 2px solid red;
-    border-left: 2px solid red;
-    border-right: 2px solid red;
-    border-bottom: 2px solid red;
-    width: 100px;
-    font-family:sans-serif;
-    font-size: large;
-    margin-left: 45%;
-    line-height: 30px;
-}
-
-#licoes_a_aprender:hover{
-    background-color: aquamarine;
-}
-
-#rodape {
-    background-color: greenyellow;
-    border-bottom: 2px solid brown;
-    border-top: 2px solid brown;
-    border-right: 2px solid brown;
-    border-left: 2px solid brown;
-    width: 55px;
-}
-
-#rodape:hover {
-    font-weight: bold;
-}
-
-article{
-    padding: 2px;
+    padding: 1%;
+    float: left;
     font-family: Arial, Helvetica, sans-serif;
     background-color: cadetblue;
     width: 470px;
@@ -93,8 +103,13 @@ article{
     font-size: large;
 }
 
-aside {
-    padding: 2px;
+.lado-direito {
+    border-left: 2px solid aquamarine;
+    border-top: 2px solid aquamarine;
+    border-left: 2px solid aquamarine;
+    border-right: 2px solid aquamarine;
+    border-bottom: 2px solid aquamarine;
+    float: right;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: cornflowerblue;
     width: 470px;
