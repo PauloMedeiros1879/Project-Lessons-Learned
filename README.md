@@ -1,10 +1,22 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Lessons Learned
+###### by _[Paulo Medeiros](https://www.linkedin.com/in/paulo-medeiros-dev1879/)_
+
+## :man_technologist: Habilidades desenvolvidas
+* Utilizar HTML semântico para tornar sua página mais acessível e melhor ranqueada.
+* Utilizar CSS para adicionar estilo e posicionar elementos.
+
+
+## :hammer_and_wrench: Ferramentas Utilizadas
+
+* CSS
+* HTML
+
+## ⚙️ Como Executar
+Clone o repositório em uma pasta de preferência
+
+```
+git@github.com:PauloMedeiros1879/Project-Lessons-Learned.git
+```
+```
+Run Code no VSCode ou Alt+Ctrl+N
+```
